@@ -1,0 +1,7 @@
+{
+  "name": "less-evaluator",
+  "version": "0.0.1",
+  "dependencies": [
+    "less"
+  ]
+}
